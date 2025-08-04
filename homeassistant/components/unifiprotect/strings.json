@@ -469,6 +469,18 @@
       },
       "liveview": {
         "name": "[%key:component::unifiprotect::entity::select::liveview::name%]"
+      },
+      "disk_life_span": {
+        "name": "Disk life span"
+      },
+      "disk_temperature": {
+        "name": "Disk temperature"
+      },
+      "disk_bad_sector": {
+        "name": "Disk bad sector"
+      },
+      "disk_power_on_hours": {
+        "name": "Disk power on hours"
       }
     },
     "switch": {
